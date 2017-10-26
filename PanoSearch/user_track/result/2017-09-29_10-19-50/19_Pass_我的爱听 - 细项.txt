@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'Y', u'Depth_2': u'records', u'Ver': 302.0, u'Title': u'我的爱听', u'VerifyKV_1': u'template=12;title', u'Summary': u'我的爱听 - 细项', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info,reid,bucket,area', u'VerifyKV_2': u'params:{template=12;dt;gid;le_mobile_app_id}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 19.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'title': u'女儿情', u'image': u'http://i0.letvimg.com/lc02_isvrs/201507/09/23/15/44cdd252-264d-11e5-9de2-e41f13b5c934/thumb/2___dp__.jpg?dp=40', u'content': u'许镜清', u'params': {u'dt': u'9', u'gid': u'music_song_4655639', u'le_mobile_app_id': u'5', u'template': u'12'}, u'template': 12, u'action': u'pano://click?action=com.letv.music.view.song&package=com.android.music&app_name=音乐&app_min_version=&id=1769023170::2&_web_url_=&music_history=9_1769023170&_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,reid,bucket,area'}

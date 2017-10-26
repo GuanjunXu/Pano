@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'', u'Depth_2': u'', u'Ver': 302.0, u'Title': u'运营banner', u'VerifyKV_1': u'template=33;card_id=902', u'Summary': u'运营banner', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:template,home_page_module_id,sub_module,content_type,extra_info;download_url:_click_rkeys_:template,home_page_module_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{template=33;module;expose_rkeys=template,home_page_module_id,sub_module,content_type,extra_info;trigger_str;_click_rkeys_=gid,home_page_module_id,sub_module,content_type,template,extra_info;experiment_bucket_str;card_id=902;home_page_module_id=32;eid}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 7.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'app_name': u'微信', u'package_name': u'com.tencent.mm', u'title': u'运营banner', u'button_status': {u'button_installing': u'安装中', u'button_wait': u'等待', u'button_download': u'下载', u'button_open': u'打开', u'button_pause': u'暂停', u'button_resume': u'继续'}, u'card_id': 902, u'download_url': u'http://dldir1.qq.com/weixin/android/weixin6514android1120.apk?_click_rkeys_=template,home_page_module_id,sub_module,content_type,extra_info', u'params': {u'_click_rkeys_': u'gid,home_page_module_id,sub_module,content_type,template,extra_info', u'home_page_module_id': 32, u'card_id': 902, u'module': u'', u'expose_rkeys': u'template,home_page_module_id,sub_module,content_type,extra_info', u'eid': u'17548198655073433864', u'template': 33, u'trigger_str': u'always', u'experiment_bucket_str': u'no_ab_test'}, u'image_url': u'http://i0.letvimg.com/lc04_search/201707/05/23/20/a01d37ce815343538294623b344fdd11.png', u'template': 33, u'flush': u'', u'action': u'https://www.baidu.com?_click_rkeys_=template,home_page_module_id,sub_module,content_type,extra_info', u'module_name': u'operation_banner_ad'}

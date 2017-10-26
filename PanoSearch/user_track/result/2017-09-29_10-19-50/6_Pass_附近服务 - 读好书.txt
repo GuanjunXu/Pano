@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'content:读好书', u'Ergodic': u'', u'Depth_2': u'records', u'Ver': 302.0, u'Title': u'附近服务', u'VerifyKV_1': u'template=4', u'Summary': u'附近服务 - 读好书', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{template=4;dt=31;sub_module=8;gid=local_readbook}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 6.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'content': u'读好书', u'action': u'androidamap://arroundpoi?sourceApplication=万象搜索插件&keywords=读好书&dev=0&package=&app_min_version=&_web_url_=http%3A%2F%2Fm.zhangyue.com%2F%3Fp2%3D104108&_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info', u'image': u'http://i2.letvimg.com/lc04_other/201708/11/17/31/book.png', u'params': {u'gid': u'local_readbook', u'dt': u'31', u'sub_module': u'8', u'template': u'4'}, u'template': 4}

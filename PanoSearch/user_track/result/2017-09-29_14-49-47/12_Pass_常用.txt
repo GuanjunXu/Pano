@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'', u'Depth_2': u'', u'Ver': 302.0, u'Title': u'常用', u'VerifyKV_1': u'module_name=common_use;template=10009;column', u'Summary': u'常用', u'Priority': u'P0', u'Spec_K': u'', u'VerifyKV_2': u'params:{home_page_module_id=2}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 12.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'title': u'常用', u'column': 5, u'fold': {u'max': 10, u'state': 2, u'fold_text': [u'<a href="pano://click?_click_rbundle_=template%3D100%26home_page_module_id%3D2">展开更多</a>', u'<a href="pano://click?_click_rbundle_=template%3D100%26home_page_module_id%3D2">收起</a>'], u'min': 10}, u'params': {u'home_page_module_id': 2}, u'template': 10009, u'module_name': u'common_use'}

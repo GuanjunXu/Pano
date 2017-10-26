@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'', u'Depth_2': u'', u'Ver': 302.0, u'Title': u'个性化设置', u'VerifyKV_1': u'template=24;content;card_id=515;info', u'Summary': u'个性化设置', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{template=24;module;sub_module=button_sets;trigger_str;click_area=cover;experiment_bucket_str;home_page_module_id=24;card_id=515;eid}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 10.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'info': u'进入个性化设置', u'title': u'个性化设置', u'card_id': 515, u'content': u'想要更加贴心的万象？', u'params': {u'template': u'24', u'home_page_module_id': 24, u'card_id': u'515', u'module': u'individuation_setting', u'eid': u'10275526061820143364', u'click_area': u'cover', u'trigger_str': u'always', u'sub_module': u'button_sets', u'experiment_bucket_str': u'no_ab_test'}, u'template': 24, u'action': u'pano://setting?_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info,pos,pos_inmodule,pos_aff,pos_extra'}

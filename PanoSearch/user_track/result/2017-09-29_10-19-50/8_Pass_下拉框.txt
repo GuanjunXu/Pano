@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'', u'Depth_2': u'', u'Ver': 303.0, u'Title': u'下拉框', u'VerifyKV_1': u'template=34;card_id=905', u'Summary': u'下拉框', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:template,home_page_module_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{template=34;module;expose_rkeys=template,home_page_module_id,sub_module,content_type,extra_info;sub_module=1;trigger_str;experiment_bucket_str;card_id=905;home_page_module_id=30;eid}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 8.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'title': u'下拉框', u'image': u'http://i0.letvimg.com/lc04_js/201707/28/10/58/pull.jpg', u'time': u'', u'card_id': 905, u'params': {u'home_page_module_id': 30, u'card_id': 905, u'module': u'', u'expose_rkeys': u'template,home_page_module_id,sub_module,content_type,extra_info', u'eid': u'17548198655073433864', u'template': u'34', u'trigger_str': u'always', u'sub_module': 1, u'experiment_bucket_str': u'no_ab_test'}, u'template': u'34', u'flush': u'', u'action': u'https://www.baidu.com?_click_rkeys_=template,home_page_module_id,sub_module,content_type,extra_info'}

@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'Y', u'Depth_2': u'records', u'Ver': 302.0, u'Title': u'大家都在搜', u'VerifyKV_1': u'template=19;text_image', u'Summary': u'大家都在搜 - 细项', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{template=19;dt;gid;le_mobile_app_id}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 17.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'index.text': 3, u'content': u'外科风云', u'action': u'pano://search?text=外科风云&_web_url_=&_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info,pos,pos_inmodule,pos_aff,pos_extra', u'params': {u'dt': u'30', u'gid': u'hot_word_7448949343489651544', u'le_mobile_app_id': u'', u'template': u'19'}, u'template': 19, u'index.color': u'#FF7F06', u'text_image': u''}

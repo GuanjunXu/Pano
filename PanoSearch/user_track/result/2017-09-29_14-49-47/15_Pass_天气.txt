@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'': u'', u'Content': u'', u'Ergodic': u'', u'Depth_2': u'', u'Ver': 302.0, u'Title': u'天气', u'VerifyKV_1': u'template=10;current_weather;forecast;card_id=502;weather_city_code;city;flush;name;column', u'Summary': u'天气', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info', u'VerifyKV_2': u'params:{dt;template=10;module=weather;trigger_str;bucket;global_id;eid;card_id=502;area;sub_module=1;reid;click_area=cover;home_page_module_id=6;le_mobile_app_id=9}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 15.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'city': u'北京', u'name': u'北京', u'title': u'天气', u'column': 1, u'card_id': 502, u'weather_city_code': u'01010101', u'params': {u'le_mobile_app_id': u'9', u'click_area': u'cover', u'area': u'', u'home_page_module_id': 6, u'bucket': u'', u'card_id': u'502', u'global_id': u'weather_14985507028025985037', u'reid': u'', u'module': u'weather', u'template': u'10', u'trigger_str': u'always', u'dt': u'15', u'sub_module': u'1', u'eid': u'6122950355868328833'}, u'template': 10, u'flush': u'', u'action': u'zmw://MainActivity?package=com.icoolme.android.weather&cityName=北京&province=北京&_web_url_=&_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,content_type,extra_info,pos,pos_inmodule,pos_aff,pos_extra', u'forecast': [{u'day_weather_name': u'多云', u'day_weather_code': 1, u'night_weather_code': 1, u'high_temperature': 35, u'night_weather_name': u'多云', u'low_temperature': 26}], u'current_weather': {u'day_weather_name': u'晴', u'from': u'最美天气', u'day_weather_code': 0, u'wind_power': u'3级', u'title': u'天气', u'wind_direction': u'东风', u'night_weather_code': 1, u'weather_code': 0, u'air_quality': u'良好', u'humidity': 52, u'high_temperature': 36, u'night_weather_name': u'多云', u'weather_name': u'晴', u'aqi': 60, u'low_temperature': 26, u'temperature': 31}}
